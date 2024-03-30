@@ -5,24 +5,14 @@ This project was bootstrapped with Create React App to provide a quick and effic
 Installation
 Clone this repository to your local machine:
 ```
-bash
-Copy code
-git clone https://github.com/sankalp414/todo
-```
-
-Navigate to the project directory:
-```
-
-cd todo-app
+git clone git@github.com:sankalp414/todo.git
 ```
 Install dependencies:
 ```
-
 npm install
 ```
 Running the Application
 Once the installation is complete, you can run the app locally:
-
 ```
 npm start
 ```
